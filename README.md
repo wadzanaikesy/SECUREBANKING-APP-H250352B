@@ -1,7 +1,7 @@
 # Secure Banking Application
 
 ## Project Description
-Welcome to my Secure Banking Application . An enterprise grade, highly reliable console banking system engineered from the ground up to showcase the pinnacle of Object-Oriented Programming (OOP) craftsmanship and uncompromising secure coding practices. Designed with modern software architecture principles in mind, this application delivers a seamless, resilient, and bulletproof user experience for managing personal finances right from the terminal.
+Welcome to my Secure Banking Application . A highly reliable console banking system engineered to showcase the pinnacle of Object-Oriented Programming (OOP) craftsmanship and uncompromising secure coding practices. This application delivers a seamless, resilient, and bulletproof user experience for managing personal finances right from the terminal.
 
 ## Student Details
 * **Name:** KESY W. CHISVETO
@@ -13,6 +13,7 @@ Welcome to my Secure Banking Application . An enterprise grade, highly reliable 
 * **Secure Transactions:** Highly robust deposit and withdrawal engines equipped with exhaustive boundary and input validation checks, ensuring absolute funds integrity and gracefully blocking invalid or negative transactions.
 * **Data Persistence:** A reliable flat-file persistence layer (`users.txt` and `accounts.txt`) that safely saves and reloads all user credentials and account states automatically, ensuring complete data survival across application restarts.
 * **Maintainable Code Architecture:** Built using clean, modular object-oriented design patterns with exceptional separation of concerns and resilient exception handling, making the codebase exceptionally easy to maintain, scale, and audit.
+* **Error-Free Financial Processing:** Features robust transaction logic that calculates deposit and withdrawal amounts with strict decimal precision to protect account balance integrity guaranteeing absolute mathematical precision for all funds movement
 
 ## How to Run the Application
 1. Ensure you have the Java Development Kit (JDK) installed on your system.
